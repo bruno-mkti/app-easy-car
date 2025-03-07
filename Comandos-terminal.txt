@@ -1,0 +1,12 @@
+Instalações:
+npm init + "Enter" em todas as requisições
+npm install express
+npm install cors
+npm install sqlite3
+node --watch src/index.js
+
+Para rodar aplicação:
+. Instale o aplicativo Expo Go no smartphone
+. No terminal entre na pasta easy-mobile com comando "cd easycar-mobile"
+. Execute o comando "npx expo start"
+. Abra a aplicação do Expo Go no smartphone

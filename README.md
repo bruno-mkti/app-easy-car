@@ -1,6 +1,7 @@
 # Aplicativo desenvolvido para motoristas de app
 
 Como executar:
+
 . Instale o aplicativo "Expo Go" no smartphone
 . No terminal entre na pasta easy-mobile com comando "cd easycar-mobile"
 . Instale as dependências com comando "npm install"
